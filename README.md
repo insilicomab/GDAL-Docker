@@ -2,4 +2,10 @@
 [参考 ULR2](https://hub.docker.com/r/osgeo/gdal/tags)
 [参考 URL3](https://github.com/sorabatake/article_32245_gdal?tab=readme-ov-file)
 
+## 環境構築
+
+```
+docker compose up -d
+```
+
 JupyterLab Link: http://localhost:8888
